@@ -1,0 +1,22 @@
+.buy-button {
+    background-color: #4CAF50; /* 绿色 */
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.buy-button:hover {
+    background-color: #45a049; /* 深绿色 */
+}
+.logo {
+    width: 150px; /* 设置 logo 宽度 */
+    height: auto; /* 保持宽高比例自适应 */
+}
